@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416989292579",
+    "project_id": "cities-ow1glk",
+    "storage_bucket": "cities-ow1glk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416989292579:android:1acf789c487626d75ce996",
+        "android_client_info": {
+          "package_name": "com.mycompany.locoflyotaru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIaU_FVyWjeyob165QwDTjvzlPvyeyTcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
